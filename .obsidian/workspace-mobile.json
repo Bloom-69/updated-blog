@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "35fa4826946d27a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f2ae43a8f85549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33b709f0c71f72f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/blog/noideawhatisthename.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c1266876df1072c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ca204507c5a323d4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4792a09b6c314dd7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9c96d2b285e0a96e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7d89cd6582318d75",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dc5e69dde2cf1fb1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "06a3ad0d13e26b40",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "src/content/blog/noideawhatisthename.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b4361b15f145aa68",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "src/content/blog/noideawhatisthename.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8e6bae2151a8899f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "src/content/blog/noideawhatisthename.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "33b709f0c71f72f7",
+  "lastOpenFiles": [
+    "src/content/blog/backup4tsc.md",
+    "src/content/blog/noideawhatisthename.md",
+    "tsconfig.json",
+    "pnpm-lock.yaml",
+    "package.json",
+    "public/fonts",
+    "public",
+    "public/fonts/inter/InterDisplay-Bold.woff2",
+    "public/fonts/inter/InterDisplay-Thin.woff2",
+    "public/fonts/inter/InterDisplay-ExtraLight.woff2",
+    "public/fonts/inter/InterVariable.woff2",
+    "public/fonts/inter/InterDisplay-Light.woff2",
+    "public/favicon.svg",
+    "README.md",
+    "public/images/ImprovedLogin.jpeg",
+    "public/images/RefreshedSettings.jpeg",
+    "src/content/blog/protonaccount.md",
+    "src/content/blog/magnetite.md",
+    "src/content/blog/first-post.md"
+  ]
+}
