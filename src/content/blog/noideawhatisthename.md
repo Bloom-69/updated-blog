@@ -18,15 +18,15 @@ I didn’t want to repeat myself like it happened to my friend Max (yeah, this i
 
 So, what’s now? I’m not sure when will I talk to my friend again. So turns out today, my friend attempted suicide, like, what’s happening to him.
 
-Was is my fault? Not sure. Anyways, that’s for it the story, but I still have some religion conflict, was yesterday too. 
+Was my fault? Not sure. Anyway, that’s for it the story, but I still have some religion conflict, was yesterday too. 
 
-So, while I was playing as solo (right before the owner of an game joined), there’s was a guy asked me about it, then I was confused on it, and then, he argued so much and had to temporarily block him, then when the owner came it, two of them begged it to ban me from the game, but his plan backfired so bad enough to keep up, instead, the owner decided to ban two of them.
+So, while I was playing as solo (right before the owner of a game joined), there was a guy asked me about it, then I was confused on it, and then, he argued so much and had to temporarily block him, then when the owner came it, two of them begged it to ban me from the game, but his plan backfired so bad enough to keep up, instead, the owner decided to ban two of them.
 
 # What’s now?
-Not sure, but I’d like to control myself and the situation further and move out. At this moment I’m trying to contact my friend, like had to wait at him to respond, if not he probably might be in hospital or worse, he dead.
+Not sure, but I’d like to control myself and the situation further and move out. At this moment I’m trying to contact my friend, like had to wait for him to respond, if not he probably might be in hospital or worse, he is dead.
 
 # Message to my friend
-I’m feel so bad at him, I didn’t want to do that, but I’d hope you recover from it. 
+I felt so bad for you, I didn’t want to do that, but I’d hope you recover from it. 
 
 Love you.
 > Bloom
